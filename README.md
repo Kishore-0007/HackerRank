@@ -1,5 +1,5 @@
 # HackerRank
-Welcome to my GitHub repository! This repository contains my solutions to various Java coding problems from HackerRank.
+Welcome to my GitHub repository! This repository contains my solutions to various Java coding problems from HackerRank. Do visit my profile https://www.hackerrank.com/profile/skishorekaarthik
 
 # How to Use This Repository
 
