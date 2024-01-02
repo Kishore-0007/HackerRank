@@ -9,12 +9,4 @@ You can use this repository as a reference for solving Java coding problems. If 
 
 While this repository is primarily for my personal use, contributions are welcome. If you have a more efficient solution or a solution to a problem that's not yet in this repository, feel free to make a pull request.
 
-# Disclaimer
-
-Please use this repository responsibly. While it can be helpful to look at others' solutions when you're stuck, try to solve the problems on your own first. Remember, the goal is learning and improvement, not just getting the correct answer.
-
-# Contact
-
-If you have any questions or comments, feel free to contact me.
-
 Happy coding!
